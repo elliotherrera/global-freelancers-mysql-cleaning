@@ -53,8 +53,8 @@ Tabla `freelancers_staging` con **1000 filas**, tipada y validada.
 ## Archivos
 
 - `limpieza_freelancers.sql`: script completo de limpieza, comentado paso a paso.
-- `Limpieza_global_freelancers.md`: documentación detallada del flujo ETL.
-- `global_freelancers_staging.csv`: datos de trabajo.
+- `global_freelancers_raw.csv`: datos crudos.
+- `global_freelancers_staging.csv`: datos limpios.
 
 ## Cómo reproducirlo
 
