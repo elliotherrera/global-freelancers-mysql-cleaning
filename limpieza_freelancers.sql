@@ -15,7 +15,7 @@
 --   - Los NULL restantes se conservan, no se imputan
 --   - Se mantiene la tabla plana (sin normalización en catálogos)
 --
--- Resultado: freelancers_staging (1000 filas, tipada y validada)
+-- Resultado: global_freelancers_clean (1000 filas, tipada y validada)
 -- =====================================================
 
 -- =====================================================
